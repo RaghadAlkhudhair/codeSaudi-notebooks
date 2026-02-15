@@ -25,9 +25,9 @@ Interactive Google Colab notebooks for the **CodeSaudi Programming Fundamentals*
 Click any notebook link above, or open directly in Google Colab:
 
 ```
-https://colab.research.google.com/github/isIbra/codeSaudi-notebooks/blob/main/fundamentals/01_hello_python.ipynb
+https://colab.research.google.com/github/RaghadAlkhudhair/codeSaudi-notebooks/blob/main/fundamentals/01_hello_python.ipynb
 ```
 
 ## Target Audience
 
-Ages 8-12, complete beginners learning Python programming.
+Ages 7-12, complete beginners learning Python programming.
